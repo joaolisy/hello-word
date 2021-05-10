@@ -1,5 +1,5 @@
 # hello-word
 
-my repository
+Estou me sentindo muito coder meoh
 
-Eu estou aprendendo a criar um repository, até agora criei o main e uma branch, e estou editando essa branch.
+Apaguei tudo o que tinha escrito aqui para ver se muda algo, beijinhuuuussss 
